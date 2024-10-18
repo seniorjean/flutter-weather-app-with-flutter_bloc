@@ -18,4 +18,4 @@ A simple Flutter weather app template
 
 #### preview    
 
-<img src="https://raw.githubusercontent.com/seniorjean/flutter-weather-app-with-flutter_bloc/refs/heads/master/app-preview.png">
+<img src="https://raw.githubusercontent.com/seniorjean/flutter-weather-app-with-flutter_bloc/refs/heads/master/app-preview.png" width="300px">
